@@ -1,0 +1,101 @@
+Player,Country,Name,Surname,Age,Height,Mental,Skill,Salary
+1,Turkey,Daghan,Öncel,39,161,68,41,2316
+2,Turkey,Mesut,Karademir,23,176,50,18,9943
+3,France,Valerian,Constant,31,180,23,39,5258
+4,England,Alfie,Sheldon,29,191,78,18,4077
+5,Turkey,Atilla,Dogu,26,194,84,89,21674
+6,Turkey,Kenan,Kömürcü,26,159,30,69,17802
+7,Turkey,Servet,Caliskan,24,182,67,91,19088
+8,Turkey,Fatih,Yürekli,36,184,99,56,5183
+9,Turkey,Dogan,Karlik,34,172,62,96,14209
+10,Turkey,Saban,Ali,18,157,97,95,11591
+11,Russia,Ilja,Samedov,38,176,67,72,6947
+12,Turkey,Cagan,Savan,32,184,79,67,9178
+13,Turkey,Caner,Özcan,35,154,52,84,8514
+14,Turkey,Süleyman,Onat,40,198,19,79,7643
+15,Brazil,Murila,Rocha,27,209,59,55,17985
+16,Turkey,Melih,Aktug,32,199,24,43,5941
+17,Turkey,Umut,Dereli,39,159,44,64,5630
+18,Turkey,Halit,Pekyalcin,33,188,80,68,9499
+19,Australia,Steven,Humphrey,35,183,88,31,2811
+20,Argentina,Esteban,Aranda,39,163,37,78,7472
+21,Italy,Enzo,Recci,19,205,32,56,5359
+22,Turkey,Çetin,Soyer,40,203,32,90,9748
+23,Turkey,Orçun,Susam,28,199,94,74,22388
+24,Turkey,Nihat,Mutafoglu,35,152,57,21,1820
+25,Turkey,Engin,Cingil,33,177,37,62,8418
+26,Turkey,Mertcan,Birkan,29,187,54,60,7084
+27,Turkey,Gencay,Ekim,18,151,65,24,2844
+28,Turkey,Oguz,Demiriz,20,182,44,22,3151
+29,Turkey,Tutku,Sahinbas,25,176,58,50,14637
+30,Turkey,Aytac,Sezer,40,182,88,78,8055
+31,Turkey,Iskender,Atmaca,22,158,99,39,5192
+32,Russia,Ilja,Samedov,32,176,75,100,14548
+33,Turkey,Baris,Saracoglu,33,151,18,21,4706
+34,Turkey,Isa,Özsezer,26,206,44,66,17630
+35,Turkey,Korkut,Saygudu,39,202,99,100,12233
+36,Brazil,Murila,Rocha,37,210,32,45,3430
+37,Turkey,Denizhan,Denktas,22,208,100,72,8948
+38,Turkey,Korkut,Ilkbahar,40,207,20,85,8618
+39,Turkey,Yalin,Elgün,31,173,91,90,12602
+40,Serbia,Stanko,Pavlovic,35,200,28,38,2803
+41,Albania,Bashkim,Dibra,37,200,72,22,2243
+42,Nigeria,Tewodros,Kayode,40,167,96,31,3084
+43,Togo,Ade,Afolabi,20,197,94,82,9859
+44,Germany,Martin,Wirt,19,197,24,33,3254
+45,Brazil,Mário ,Cardoso ,23,154,71,81,16317
+46,Brazil,Marinho,Costa,24,152,58,69,15442
+47,Russia,Denis,Naumov,34,210,33,49,7248
+48,Turkey,Tunç,Aksoy,26,159,81,36,14928
+49,Ivory Coast,Souleymane,Opeyemi,35,165,65,62,5478
+50,Turkey,Ali,Demircioglu,20,186,100,39,4584
+51,Turkey,Fevzi,Terzioglu,25,150,45,61,15580
+52,Turkey,Burak,Bardakci,22,188,58,81,9912
+53,Germany,Adolf,Hochberg,24,191,82,42,12787
+54,Turkey,Ilkay,Degirmenci,35,202,90,41,3691
+55,Nigeria,Afolabi,Idowu,30,174,60,50,6363
+56,Albania,Endrit,Shehu,26,168,36,72,18253
+57,Brazil,Demétrio  ,Maria,23,192,69,94,18569
+58,Hungary,Eduárd ,Székely ,26,174,29,16,13433
+59,Hungary,Ádám ,Rigó ,35,160,52,83,8244
+60,Greece,Spiros ,Michelakos ,22,189,60,96,12450
+61,Turkey,Mustafa,Arslan,22,159,31,64,7088
+62,Nigeria,Yared,Okafor,37,201,51,27,2327
+63,D.R. Congo,Sifiso,Arendse,32,194,87,49,7123
+64,Turkey,Ural,Sadik,31,207,76,55,7396
+65,Portugal,Jacinto,Teixeira,30,191,58,85,11012
+66,Turkey,Aziz,Biroglu,21,152,75,55,6176
+67,Ukraine,Roman,Smirnov,20,179,20,52,5109
+68,Romania,Miron,Dumitrescu,40,157,33,50,3959
+69,Turkey,Tolga,Akdemir,18,160,29,44,3834
+70,Germany,Hans,Bayer,30,164,20,79,9546
+71,Turkey,Mesut,Kundakci,36,195,39,54,4364
+72,Russia,Vladimir ,Krupin,27,203,90,46,17398
+73,Turkey,Ekrem,Arap,25,203,92,32,13572
+74,Nigeria,Awotwi,Babatunde,28,171,23,28,16992
+75,South Africa,Thoko,Olayinka,23,197,37,64,13635
+76,Russia,Vasiliy,Vinogradov,31,173,71,58,7510
+77,Turkey,Ismet,Terzi,22,202,33,34,4245
+78,Mexico,Guillermo,Moreno,38,181,56,16,1955
+79,Turkey,Enis,Yilmaz,24,172,88,70,15957
+80,Portugal,Patrício ,Félix ,39,210,66,85,9208
+81,Ivory Coast,Ikenna,Adebayo,34,183,65,98,14732
+82,Senegal,Abubakar,Okeke,29,156,73,63,7698
+83,Senegal,Idir,Okeke,29,199,21,60,6924
+84,Germany,Ronald,Mann,29,199,39,80,9760
+85,Ukraine,Seva,Voronin,26,204,64,17,13840
+86,Turkey,Fuat,Ekmekci,40,198,21,68,6075
+87,Romania,Aurica,Constantinescu ,38,168,67,83,8546
+88,Turkey,Cemal,Teke,39,199,69,39,3304
+89,Turkey,Haluk,Teke,35,160,52,77,7266
+90,Germany,Gottlob,Halle,38,190,21,95,10278
+91,Russia,Artem,Maksimov,29,189,27,23,3815
+92,Turkey,Okan,Binici,38,196,22,55,4478
+93,Turkey,Erdem,Solak,24,199,45,20,11189
+94,Turkey,Öztürk,Yilmaz,39,196,43,85,8772
+95,Greece,Alex,Iordanou ,29,155,91,53,6718
+96,Germany,Anton,Walther,37,201,19,31,2289
+97,Turkey,Rahmi,Karga,27,166,24,68,19130
+98,Romania,Ieronim,Matei,38,168,87,51,4522
+99,Turkey,Toygar,Tilki,31,200,47,30,5043
+100,Hungary,Loránd ,Gárdonyi ,32,173,57,40,6027
